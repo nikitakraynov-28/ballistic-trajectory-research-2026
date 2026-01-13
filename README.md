@@ -9,8 +9,8 @@ I'm learning how air resistance affects flying objects using:
 - My first Python code
 
 Files:
-- `trajectory.py` - simple Python program
-- `calculations.xlsx` - all math
-- `experiment/` - photos and data
+- `coming soon :3` - simple Python program
+- `coming soon ;3` - all math
+- `coming soon :P` - photos and data
 
 This is my start in computational physics!
